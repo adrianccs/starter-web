@@ -16,8 +16,14 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+<<<<<<< HEAD
 Please fork this repository and then dissue Pull Requests for review.
 
 ### Copyright
 
 2022 Git.Training.
+=======
+### Copyright
+
+2022 Git.Training.
+>>>>>>> simple-changes
