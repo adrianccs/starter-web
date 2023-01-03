@@ -20,5 +20,5 @@ Please fork this repository and then dissue Pull Requests for review.
 
 ### Copyright
 
-2022 Git.Training.
+2022 Git.Training. All rights reserved.
 
